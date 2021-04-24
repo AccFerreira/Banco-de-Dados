@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-24T00:52:06.182Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Yz5spgfvon7U_L9pXtww" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-24T01:32:42.232Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="xkeBNUmu3DbyyC1W6qNn" version="14.6.6" type="github">
   <diagram id="jyzrrIKalwnMd3i6UcrO" name="Page-1">
     <mxGraphModel dx="1627" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,9 +55,6 @@
             <mxPoint x="225" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vvTnEZrNOKMxKpBkwKLP-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="vvTnEZrNOKMxKpBkwKLP-16" target="vvTnEZrNOKMxKpBkwKLP-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="vvTnEZrNOKMxKpBkwKLP-16" value="ID" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="420" width="120" height="60" as="geometry" />
         </mxCell>
@@ -78,6 +75,9 @@
         </mxCell>
         <mxCell id="vvTnEZrNOKMxKpBkwKLP-21" value="&lt;font style=&quot;font-size: 19px&quot;&gt;FILME&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-10" y="380" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_J7uzT7RFfLS-QfGlJDj-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="vvTnEZrNOKMxKpBkwKLP-22" target="vvTnEZrNOKMxKpBkwKLP-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vvTnEZrNOKMxKpBkwKLP-22" value="Nome" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="420" width="120" height="60" as="geometry" />
